@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Task Manager App
 
 A simple full-stack Task Manager application built using Node.js, Express, and Vanilla JavaScript.
@@ -77,3 +78,7 @@ This project focuses on clean structure, API integration, and core full-stack co
 👨‍💻 Author
 
 Hariom Patel
+=======
+# task--manager
+This is internship project
+>>>>>>> 910481c8659d2cda3559a6f1a9cbb5aea3070285

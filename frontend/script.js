@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/tasks";
+const API = "https://task-manager-2rwy.onrender.com/tasks";
 
 let allTasks = [];
 
